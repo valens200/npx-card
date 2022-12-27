@@ -1,13 +1,13 @@
 {
-    "name": "rahikhan",
-    "version": "2.2.2",
-    "author": "Rahi Khan <rahikhan360@gmail.com> (https://rahikhan.gtsb.io)",
-    "description": "A personal card for Rahi Khan",
+    "name": "valens200",
+    "version": "1.0.0",
+    "author": "valens200 <valensniyonsenga2003@gmail.com> (https://valens200.dev)",
+    "description": "My name is valens NIYONSENGA a fullstack developer ,  competitive programmer and programming faciltator",
     "main": "card.js",
     "bin": "./card.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rahi-khan/npx_card.git"
+        "url": "https://github.com/valens200/npx-card.git"
     },
     "scripts": {
         "setup": "ncu -u && npm i",
